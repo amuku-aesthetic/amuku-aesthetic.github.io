@@ -1,0 +1,8 @@
+name: AMUKU
+description: Lalika dehan o amuku, wainhira ida o hatene mak protesta governu.<br/>Buka rasik osan, mak maneira aestektiku ba moris ida klaru.
+price: $25.00
+sizes: M • L • XL
+material: Cotton Combed 16s
+type: Oversize t-shirt
+sablon: Sablon Plastisol Plascharge
+message: Faru AMUKU sei iha ga?

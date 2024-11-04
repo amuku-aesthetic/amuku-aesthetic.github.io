@@ -1,0 +1,8 @@
+name: JULGA
+description: Karik moris nia definisaun mak sai rajaun ba julga.<br/>Rahun diak ba imi ida nunka halo sala, espera mundo perdua.
+price: $25.00
+sizes: M • L • XL
+material: Cotton Combed 16s
+type: Oversize t-shirt
+sablon: Sablon Plastisol Plascharge
+message: Faru JULGA sei iha ga?

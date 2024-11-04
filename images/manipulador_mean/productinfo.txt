@@ -1,0 +1,8 @@
+name: MANIPULADOR MEAN
+description: Iha era Ida osan sai instrumento atu manipula.<br/>Diferensia entre ita ho sira, sira husu ita kria.
+price: $25.00
+sizes: M • L • XL
+material: Heavy Cotton 16S
+type: Oversize t-shirt
+sablon: Direct Transfer Film
+message: Faru MANIPULADOR MEAN sei iha ga?
