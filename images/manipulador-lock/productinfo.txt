@@ -1,0 +1,8 @@
+name: MANIPULADOR
+description: Iha era Ida osan sai instrumento atu manipula.<br/>Diferensia entre ita ho sira, sira husu ita kria.
+price: $25.00
+sizes: M • L • XL
+material: Cotton Combed 16s
+type: Oversize t-shirt
+sablon: Sablon Plastisol Plascharge
+message: Faru MANIPULADOR sei iha ga?
